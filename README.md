@@ -1,0 +1,2 @@
+这是一个关于跨境电商太阳眼镜的竞品分析的一个数据可视化大屏，可以用于其他可视化页面。这个可视化大屏包含了我们在东欧emag平台上上架销售的太阳眼镜产品对应的其他竞品销量和产品的竞争力
+This is a data visualization large screen for competitive analysis of cross-border e-commerce sunglasses, which can be used for other visual pages. This visual large screen includes the sales volume and competitiveness of other competitors corresponding to the sunglasses products we sell on the Eastern European emag platform.
